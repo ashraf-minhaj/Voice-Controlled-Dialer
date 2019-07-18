@@ -6,3 +6,5 @@ An automatic system to call using voice only. You say "call" followed by the num
  2. speechRecognition package
  3. pyttsx3
  
+ requires one Arduino with gsm module ( I used sim808) over serial communication to a PC or Raspberry Pi. 
+ Full tutorial coming soon.
